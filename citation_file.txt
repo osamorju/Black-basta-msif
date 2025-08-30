@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Black Basta Ransomware: Multi-Source Intelligence Framework (MSIF)"
+version: 1.0.0
+date-released: 2025-01-15
+url: "https://github.com/jude-osamor/black-basta-msif"
+repository-code: "https://github.com/jude-osamor/black-basta-msif"
+abstract: >-
+  A comprehensive framework for advanced cyber threat analysis and proactive defense
+  against Black Basta ransomware, integrating multiple intelligence sources including
+  honeypots, reverse engineering, behavioral analysis, and victim impact assessment.
+  The framework achieves 87.4% accuracy in attack vector prediction with 75.3%
+  prevention rate in controlled testing environments.
+
+authors:
+  - family-names: "Osamor"
+    given-names: "Jude"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+    email: "jude.osamor@ieee.org"
+    affiliation: "University of the West of England, Bristol"
+
+keywords:
+  - "ransomware analysis"
+  - "cybersecurity"
+  - "threat intelligence"
+  - "machine learning"
+  - "black basta"
+  - "malware detection"
+  - "proactive defense"
+
+license: MIT
+license-url: "https://github.com/jude-osamor/black-basta-msif/blob/main/LICENSE"
+
+preferred-citation:
+  type: article
+  title: "Black Basta Ransomware: A Novel Multi-Source Intelligence Framework for Advanced Cyber Threat Analysis and Proactive Defense"
+  journal: "[Journal Name - Under Review]"
+  year: 2025
+  authors:
+    - family-names: "Osamor"
+      given-names: "Jude"
+      orcid: "https://orcid.org/0000-0000-0000-0000"
+      email: "jude.osamor@ieee.org"
+      affiliation: "University of the West of England, Bristol"
