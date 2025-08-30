@@ -5,7 +5,7 @@
 ### Institutional Review Board (IRB) Approval
 
 **IRB Approval Documentation:**
-- **Institution:** University of the West of England (UWE) Bristol Research Ethics Committee
+- **Institution:** University of the West of England (UWE) Bristol Research 
 - **Protocol Number:** UWE-REC-2023-0847-CYB
 - **Approval Date:** November 15, 2022
 - **Expiration Date:** November 14, 2025
