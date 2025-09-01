@@ -6,7 +6,6 @@
 
 **Primary Data Repository:**
 - **Location:** University of the West of England Research Data Repository
-- **DOI:** 10.5523/bris.xyz789 (persistent identifier)
 - **Access Level:** Controlled access with data sharing agreements
 - **Backup Locations:** UK Data Service, Zenodo (EU), figshare (global)
 
@@ -573,9 +572,6 @@ if __name__ == "__main__":
 4. **Computational Time:** Full replication may take 20-30 hours on typical hardware
 
 **Support Contact Information:**
-- **Technical Issues:** msif-support@uwe.ac.uk
-- **Data Access:** data-access@uwe.ac.uk
-- **Ethical Questions:** ethics@uwe.ac.uk
 - **Principal Investigator:** jude.osamor@ieee.org
 
 ## Long-term Data Stewardship
