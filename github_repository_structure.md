@@ -326,11 +326,11 @@ Due to the sensitive nature of cybersecurity data, we provide multiple access ti
 - Longitudinal time-series data
 - Industry collaboration data
 
-**Data Access Request:** Please see [Data Access Guide](docs/data_access.md)
+
 
 ## Replication
 
-Complete replication guide available at [docs/replication/replication_guide.md](docs/replication/replication_guide.md)
+Can be replicated 
 
 **Expected completion time:** 20-30 hours on recommended hardware  
 **Validation criteria:** ±2% accuracy tolerance from published results
@@ -366,16 +366,11 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 ## Support
 
-- **Documentation:** [docs/](docs/)
-- **Issues:** [GitHub Issues](https://github.com/jude-osamor/black-basta-msif/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/jude-osamor/black-basta-msif/discussions)
 - **Contact:** jude.osamor@ieee.org
 
 ## Acknowledgments
 
-- University of the West of England Research Ethics Committee
-- UK National Cyber Security Centre
-- Canadian Centre for Cyber Security  
+- University of the West of England Research  
 - Industry collaboration partners
 - Cybersecurity research community contributors
 ```
