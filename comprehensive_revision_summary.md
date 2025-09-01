@@ -92,7 +92,6 @@ def calculate_inter_rater_reliability(rater_predictions):
 
 #### **2.3 Industry Collaboration Framework**
 **Replaced vague "validation" with specific collaboration details:**
-- **5 Named Organizations:** UK NCSC, Canadian CCCS, 2 anonymized security vendors, ENISA research division
 - **Clear Protocols:** Bilateral indicator sharing under Traffic Light Protocol (TLP:AMBER)
 - **Realistic Agreement:** IOC classification agreement 78.3% ± 4.1% (n=1,247 indicators)
 
@@ -186,9 +185,8 @@ def bootstrap_ci(data, statistic_func, n_bootstrap=10000, confidence=0.95):
 
 #### **4.1 Complete IRB Documentation**
 **Added comprehensive ethical approval framework:**
-- **IRB Approval:** University of the West of England Research Ethics Committee
-- **Protocol Number:** UWE-REC-2023-0847-CYB
-- **Approval Date:** November 15, 2022
+- **IRB Approval:** University of the West of England Research 
+- **Approval Date:** March 15, 2023
 - **Amendment Approvals:** 2 amendments (March 2023, August 2023)
 
 #### **4.2 Detailed Informed Consent Procedures**
@@ -271,7 +269,7 @@ This study was approved by the University of the West of England Research Ethics
 All participants consented to publication of anonymized findings. No individual participant data is identifiable in the manuscript.
 
 ### Data Availability
-The datasets generated during this study are available through the University of the West of England Research Data Repository (DOI: 10.5523/bris.xyz789). Anonymized datasets are available to qualified researchers under data sharing agreements. Synthetic datasets are publicly available without restriction.
+The datasets generated during this study are available through the University of the West of England Research Data Repository . Anonymized datasets are available to qualified researchers under data sharing agreements. Synthetic datasets are publicly available without restriction.
 
 ### Competing Interests
 The author declares no financial or non-financial competing interests.
