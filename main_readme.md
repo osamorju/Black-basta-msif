@@ -182,9 +182,7 @@ This research follows responsible cybersecurity research practices:
 
 ## Acknowledgments
 
-- University of the West of England Research Ethics Committee
-- UK National Cyber Security Centre
-- Canadian Centre for Cyber Security
+- University of the West of England Research 
 - Industry collaboration partners (anonymized per agreements)
 - Open source cybersecurity research community
 
