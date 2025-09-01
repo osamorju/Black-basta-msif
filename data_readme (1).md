@@ -40,7 +40,7 @@ data/
 
 **Location:** `data/anonymized/`
 
-**Access:** Submit request through [GitHub Issues](https://github.com/jude-osamor/black-basta-msif/issues) using "Data Access Request" template
+**Access:** Submit request through jude-osamor/black-basta-msif/issues using "Data Access Request" template
 
 **Requirements:**
 - Valid academic email address
