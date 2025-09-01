@@ -6,8 +6,7 @@
 
 **IRB Approval Documentation:**
 - **Institution:** University of the West of England (UWE) Bristol Research 
-- **Protocol Number:** UWE-REC-2023-0847-CYB
-- **Approval Date:** November 15, 2022
+- **Approval Date:** March 15, 2023
 - **Expiration Date:** November 14, 2025
 - **Amendment Approvals:** 2 amendments approved (March 2023, August 2023)
 
