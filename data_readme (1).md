@@ -187,7 +187,7 @@ All datasets include quality metrics:
 - **Data Access Requests:** Use GitHub Issues with "Data Access Request" label
 - **Technical Support:** GitHub Issues with "Technical Support" label  
 - **Research Collaboration:** jude.osamor@ieee.org
-- **Ethics Questions:** ethics@uwe.ac.uk
+
 
 ## Version History
 
