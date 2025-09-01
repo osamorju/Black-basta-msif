@@ -101,7 +101,7 @@ Due to cybersecurity data sensitivity, we provide tiered access:
 - Longitudinal data with temporal relationships
 - Industry validation data
 
-**Request Access:** See [docs/data_access.md](docs/data_access.md)
+
 
 ## Key Features
 
@@ -123,9 +123,6 @@ Due to cybersecurity data sensitivity, we provide tiered access:
 - **Data protection:** Multi-layer anonymization with k-anonymity and differential privacy
 - **Legal compliance:** GDPR, Computer Fraud and Abuse Act adherence
 
-## Replication Guide
-
-Complete replication instructions available at [docs/replication/replication_guide.md](docs/replication/replication_guide.md)
 
 **Estimated completion time:** 20-30 hours on recommended hardware  
 **Validation criteria:** ±2% accuracy tolerance from published results  
