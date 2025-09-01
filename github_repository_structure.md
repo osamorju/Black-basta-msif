@@ -356,14 +356,6 @@ This research was conducted under University of the West of England IRB approval
 
 **Security Note:** Malware samples and honeypot configurations are provided for research purposes only. Use in isolated environments with appropriate security measures.
 
-## Contributing
-
-We welcome contributions! Please read [CONTRIBUTING.md](.github/CONTRIBUTING.md) for guidelines.
-
-## License
-
-This project is licensed under the MIT License - see [LICENSE](LICENSE) file for details.
-
 ## Support
 
 - **Contact:** jude.osamor@ieee.org
