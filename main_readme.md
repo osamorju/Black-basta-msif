@@ -169,25 +169,14 @@ This research follows responsible cybersecurity research practices:
 
 **Security Warning:** Malware samples and attack signatures are provided for research purposes only. Use appropriate isolation and security measures.
 
-## Contributing
-
-Contributions welcome! Please read [CONTRIBUTING.md](.github/CONTRIBUTING.md) for guidelines.
-
 ### Areas for Contribution
 - Additional ransomware family analysis
 - Enhanced machine learning models
 - Infrastructure optimization
 - Documentation improvements
 
-## License
-
-MIT License - see [LICENSE](LICENSE) for details.
-
 ## Support and Contact
 
-- **Technical Documentation:** [docs/](docs/)
-- **Issues:** [GitHub Issues](https://github.com/jude-osamor/black-basta-msif/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/jude-osamor/black-basta-msif/discussions)
 - **Principal Investigator:** jude.osamor@ieee.org
 - **Institution:** University of the West of England, Bristol
 
