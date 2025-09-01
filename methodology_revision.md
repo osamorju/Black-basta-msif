@@ -173,7 +173,6 @@ def calculate_metrics_with_ci(y_true, y_pred, confidence=0.95):
 
 ### Code and Configuration Availability
 All implementation code, configuration files, and experimental scripts are available in the supplementary repository:
-- GitHub Repository: [https://github.com/jude-osamor/black-basta-msif](placeholder)
 - Docker containers for reproducible environment setup
 - Ansible playbooks for infrastructure deployment
 - Jupyter notebooks for analysis reproduction
