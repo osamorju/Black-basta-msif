@@ -186,8 +186,6 @@ def bootstrap_ci(data, statistic_func, n_bootstrap=10000, confidence=0.95):
 #### **4.1 Complete IRB Documentation**
 **Added comprehensive ethical approval framework:**
 - **IRB Approval:** University of the West of England Research 
-- **Approval Date:** March 15, 2023
-- **Amendment Approvals:** 2 amendments (March 2023, August 2023)
 
 #### **4.2 Detailed Informed Consent Procedures**
 **Implemented comprehensive consent framework:**
