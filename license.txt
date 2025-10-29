@@ -43,7 +43,7 @@ ADDITIONAL TERMS FOR CYBERSECURITY RESEARCH:
 
 6. Any academic or commercial use of this software should appropriately cite 
    the original research paper and respect the intellectual property rights 
-   of the authors.
+   of the author.
 
 For questions about licensing, ethical use, or research collaboration, 
 please contact: jude.osamor@ieee.org
