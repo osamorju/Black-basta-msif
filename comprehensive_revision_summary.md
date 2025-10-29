@@ -204,7 +204,7 @@ PARTICIPATION REQUIREMENTS:
 DATA PROTECTION MEASURES:
 - All organizational identifiers removed before analysis
 - Interview recordings destroyed within 6 months of transcription
-- Data stored on encrypted, access-controlled university systems
+- Data stored on encrypted, access-controlled  systems
 
 WITHDRAWAL RIGHTS:
 - Withdraw consent at any time without explanation
@@ -259,17 +259,14 @@ class DataAnonymizer:
 ```markdown
 ## Declarations
 
-### Funding
-This research was supported by internal university funding (£15,000) from the University of the West of England Bristol Research Development Fund.
-
 ### Ethical Approval and Consent to Participate
-This study was approved by the University of the West of England Research Ethics Committee (Protocol: UWE-REC-2023-0847-CYB, approved November 15, 2022). All participants provided informed written consent.
+This personal study was approved by the University. All participants provided informed written consent.
 
 ### Consent for Publication  
 All participants consented to publication of anonymized findings. No individual participant data is identifiable in the manuscript.
 
 ### Data Availability
-The datasets generated during this study are available through the University of the West of England Research Data Repository . Anonymized datasets are available to qualified researchers under data sharing agreements. Synthetic datasets are publicly available without restriction.
+The datasets generated during this study are available . Anonymized datasets are available to qualified researchers under data sharing agreements. Synthetic datasets are publicly available without restriction.
 
 ### Competing Interests
 The author declares no financial or non-financial competing interests.
