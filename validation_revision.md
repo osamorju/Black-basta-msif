@@ -70,12 +70,11 @@ def calculate_inter_rater_reliability(rater_predictions):
 ## 2.3.2 External Validation Through Industry Collaboration
 
 ### Partner Organization Framework
-Rather than claiming "validation" from industry partners, we established a **collaborative intelligence sharing arrangement** with five cybersecurity organizations:
+Rather than claiming "validation" from industry partners, i established a **collaborative intelligence sharing arrangement** with five cybersecurity organizations:
 
 **Participating Organizations:**
 1. **Regional CERT/CSIRT Teams (2 organizations):**
-   - UK National Cyber Security Centre (NCSC)
-   - Canadian Centre for Cyber Security (CCCS)
+
    
 2. **Private Security Vendors (2 organizations):**
    - Mid-size threat intelligence provider (anonymized per agreement)
@@ -232,7 +231,7 @@ def bootstrap_ci(data, statistic_func, n_bootstrap=10000, confidence=0.95):
 - Detailed supplementary materials including raw statistical outputs
 
 **Peer Review Transparency:**
-Rather than claiming "academic peer review validation," we acknowledge:
+Rather than claiming "academic peer review validation," i acknowledge:
 - Three cybersecurity researchers provided technical feedback on methodology
 - Feedback incorporated into analysis design but not formal peer review
 - Independent replication attempts documented with success/failure rates
