@@ -35,7 +35,7 @@ license-url: "https://github.com/jude-osamor/black-basta-msif/blob/main/LICENSE"
 preferred-citation:
   type: article
   title: "Black Basta Ransomware: A Novel Multi-Source Intelligence Framework for Advanced Cyber Threat Analysis and Proactive Defense"
-  journal: "[Journal Name - Under Review]"
+  journal: "Springer"
   year: 2025
   authors:
     - family-names: "Osamor"
