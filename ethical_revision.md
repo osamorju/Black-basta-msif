@@ -6,9 +6,9 @@
 
 **IRB Approval Documentation:**
 - **Institution:** University of the West of England (UWE) Bristol Research 
-- **Approval Date:** March 15, 2023
-- **Expiration Date:** November 14, 2025
-- **Amendment Approvals:** 2 amendments approved (March 2023, August 2023)
+- **Approval Date:** March 15, 2025
+- **Expiration Date:** November 14, 2028
+- **Amendment Approvals:** 2 amendments approved (June 2025, September 2025)
 
 **Ethical Review Process:**
 ```
