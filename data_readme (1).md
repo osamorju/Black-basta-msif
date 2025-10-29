@@ -197,7 +197,7 @@ All datasets include quality metrics:
 
 ## Acknowledgments
 
-- University of the West of England Research Ethics Committee
+- University of the West of England 
 - Industry partners (anonymized per agreements)
 - Cybersecurity research community contributors
 - Open source threat intelligence providers
