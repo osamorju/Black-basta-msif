@@ -228,7 +228,7 @@ Secure Storage → Publication → Retention → Secure Deletion
 ### Conflict of Interest Management
 
 **Financial Disclosures:**
-- **Funding Sources:** University internal research funding only (£15,000 total)
+- **Funding Sources:** University internal fund
 - **Industry Relationships:** No financial relationships with cybersecurity vendors
 - **Intellectual Property:** No patents or proprietary interests in described technologies
 - **Consulting Arrangements:** No consulting relationships with study participants
